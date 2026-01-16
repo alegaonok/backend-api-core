@@ -26,3 +26,10 @@ dev = [
     "isort (>=7.0.0,<8.0.0)",
     "mypy (>=1.19.1,<2.0.0)"
 ]
+
+[tool.poetry]
+name = "backend-api-core"
+version = "0.1.0"
+description = "Production-ready backend API built with FastAPI"
+authors = ["Tu Nombre <email@ejemplo.com>"]
+package-mode = false
